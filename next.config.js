@@ -7,5 +7,5 @@ const nextConfig = {
 };
 
 module.exports = {
-  compress: false,
+  compress: true,
 }
